@@ -1,0 +1,32 @@
+body
+{
+	color:black;
+	font-family:Arial;
+	/* text-align: center; - can be used to center all if other text-align's inactive*/
+	background-color: #ffffe0;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+	font-size: 150%;
+}
+.button
+{
+    width: 20%;
+    background-color: orange;
+    border-radius: 3px;
+    display: inline-block;
+    color: black;
+    font-size: 250%;
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px orange;
+}
+.text-center {
+	font-size: 22;
+  text-align: center;
+}
